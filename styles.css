@@ -30,3 +30,6 @@ p {
   .project-tile{
     color: #f2f2f2;
   }
+  #profile-link a:active{
+    color: hotpink;
+  }
